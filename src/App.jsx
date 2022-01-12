@@ -26,7 +26,11 @@ export default function App() {
   return (
     <>
       <Header />
-      <Main />
+      <Main
+        formState={formState}
+        setFormState={setFormState}
+
+      />
     </>
   );
 }
