@@ -1,5 +1,5 @@
 
-export default function RadioButtons(props) {
+export default function Consistency(props) {
     return (
 
         <ul>

@@ -1,5 +1,5 @@
 
-export default function CheckBoxes(props) {
+export default function BestFeatures(props) {
     return (
         <ul>
             <li>
